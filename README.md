@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Myrna!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;UI%2FUX+Lover+%F0%9F%92%AA;Tech+for+Social+Impact+%F0%9F%92%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Myrna!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Tech+for+Social+Impact+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ZLrD6D1EPXaOPfsl9/giphy.gif" alt="GIF" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" alt="Wednesday Addams GIF" width="500"/>
 </p>
 
 <div align="center">
@@ -47,7 +47,6 @@
 
 ![Flutter](https://img.shields.io/badge/-Flutter-ff66b2?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/-Dart-ff4da6?style=for-the-badge&logo=dart&logoColor=white)  
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-ffa6c9?style=for-the-badge&logo=figma&logoColor=white)  
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ff66b2?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
@@ -80,7 +79,7 @@
 - 🍽️ [Meals App](https://github.com/Myrnanader/Meals_app.git) — Flutter app with onboarding and local storage  
 - 🎬 [Movie App](https://github.com/Myrnanader/movie_app.git) — UI-focused app for browsing movies  
 - 🧮 [BMI Calculator](https://github.com/Myrnanader/BMI_calculator.git) — Simple health calculator with clean UI  
-- 🩺 [Doc Doc App](https://github.com/Myrnanader/doc_doc_app.git) — Health tech app supporting  
+- 🩺 [Doc Doc App](https://github.com/Myrnanader/doc_doc_app.git) — Health tech app supporting doctors and gives patients recommendations  
 - 💸 [Expenzo App](https://github.com/Myrnanader/Expenzo_app.git) — Expense tracking with intuitive design  
 - 📝 [Notes App](https://github.com/Myrnanader/notes_app.git) — Minimal note-taking app  
 - 💼 [Finance UI](https://github.com/Myrnanader/finance_app_ui.git) — Elegant finance dashboard UI
