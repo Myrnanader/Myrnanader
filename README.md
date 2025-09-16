@@ -80,7 +80,7 @@
 - 🍽️ [Meals App](https://github.com/Myrnanader/Meals_app.git) — Flutter app with onboarding and local storage  
 - 🎬 [Movie App](https://github.com/Myrnanader/movie_app.git) — UI-focused app for browsing movies  
 - 🧮 [BMI Calculator](https://github.com/Myrnanader/BMI_calculator.git) — Simple health calculator with clean UI  
-- 🩺 [Doc Doc App](https://github.com/Myrnanader/doc_doc_app.git) — Health tech app supporting mothers and children  
+- 🩺 [Doc Doc App](https://github.com/Myrnanader/doc_doc_app.git) — Health tech app supporting  
 - 💸 [Expenzo App](https://github.com/Myrnanader/Expenzo_app.git) — Expense tracking with intuitive design  
 - 📝 [Notes App](https://github.com/Myrnanader/notes_app.git) — Minimal note-taking app  
 - 💼 [Finance UI](https://github.com/Myrnanader/finance_app_ui.git) — Elegant finance dashboard UI
