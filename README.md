@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/1ZzjvWZ3xWwAAAAC/wednesday-addams-wednesday.gif" alt="Wednesday Addams GIF" width="500"/>
+<img src="https://github.com/Myrnanader/Myrnanader/blob/main/Wednesday%20Addams%20GIF.png" alt="Wednesday Addams GIF" width="500"/>
 </p>
 
 <div align="center">
