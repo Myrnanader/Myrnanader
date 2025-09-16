@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Myrna!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Tech+for+Social+Impact+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Myrna!+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Tech+for+Social+Impact+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://github.com/Myrnanader/Myrnanader/blob/main/Wednesday%20Addams%20GIF.png" alt="Wednesday Addams GIF" width="500"/>
+  <img src="https://github.com/Myrnanader/Myrnanader/raw/main/Wednesday%20Addams%20GIF.png" alt="Wednesday Addams GIF" width="500"/>
 </p>
 
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Myrnanader?style=social&label=Follow)](https://github.com/Myrnanader)  
-![Profile views](https://komarev.com/ghpvc/?username=Myrnanader&style=flat&label=Views&color=ff66b2)
+![Profile views](https://komarev.com/ghpvc/?username=Myrnanader&style=flat&label=Views&color=9B59B6)
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-ff66b2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myrna.nader.710/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myrna-nader-a3084a2b6/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20me-ffa6c9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myrnanader4@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-9B59B6?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/myrna.nader.710/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E44AD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myrna-nader-a3084a2b6/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20me-BB8FCE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myrnanader4@gmail.com)
 
 </div>
 
@@ -45,9 +45,9 @@
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/-Flutter-ff66b2?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/-Dart-ff4da6?style=for-the-badge&logo=dart&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ff66b2?style=for-the-badge&logo=code&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-9B59B6?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-8E44AD?style=for-the-badge&logo=dart&logoColor=white)  
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-BB8FCE?style=for-the-badge&logo=code&logoColor=white)
 
 </div>
 
@@ -59,17 +59,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Myrnanader&show_icons=true&title_color=ff4da6&icon_color=ff66b2&text_color=ffffff&bg_color=0d1117&border_color=ff66b2&hide_border=true&include_all_commits=true&count_private=true" alt="Myrna's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Myrnanader&show_icons=true&title_color=8E44AD&icon_color=9B59B6&text_color=ffffff&bg_color=0d1117&border_color=9B59B6&hide_border=true&include_all_commits=true&count_private=true" alt="Myrna's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrnanader&layout=compact&title_color=ff4da6&text_color=ffffff&bg_color=0d1117&border_color=ff66b2&hide_border=true&langs_count=8" alt="Myrna's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrnanader&layout=compact&title_color=8E44AD&text_color=ffffff&bg_color=0d1117&border_color=9B59B6&hide_border=true&langs_count=8" alt="Myrna's Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Myrnanader&background=0D1117&ring=ff4da6&fire=ff66b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff66b2&sideLabels=ff4da6&dates=cccccc&border=ff66b2&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Myrnanader&background=0D1117&ring=8E44AD&fire=9B59B6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9B59B6&sideLabels=8E44AD&dates=cccccc&border=9B59B6&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -86,4 +86,4 @@
 
 ---
 
-> _"I don't just write code — I write impact."_
+> _"I don't just write code — I write impact "_
