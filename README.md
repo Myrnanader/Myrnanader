@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmOHByOHh6dTcxbmQxcGxtdTM0cTNxdTRsY3hqcWk4cWdteDd3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" alt="Wednesday Addams GIF" width="500"/>
+ <img src="https://media.tenor.com/1ZzjvWZ3xWwAAAAC/wednesday-addams-wednesday.gif" alt="Wednesday Addams GIF" width="500"/>
 </p>
 
 <div align="center">
